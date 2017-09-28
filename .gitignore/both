@@ -1,0 +1,99 @@
+<style>
+  body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background: #ddd
+}
+h1{
+  display: inline-block;
+  background: black;
+  color: #fff;
+  font-size: 40px;
+}
+  
+h2, h3 {
+  display: inline-block;
+  background: #fff;
+}
+p{
+  display: inline-block;
+  background: #fdd;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 15px;
+}
+span {
+  background: #fd0;
+}
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 30px;
+  color: #ddd;
+  background: #fff;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: #fff;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+</style>
+<h1>SPORTS AGGREGATED</h1> <span class="blinking-cursor">|</span><br>
+<h2>(a realtime html + css editor)</h2><br>
+<h3>why is the paragraph not showing up thought?!?!? ughh</h3>
+<p> This is my small project on getting http and css pages to work together. because I'm a boss and can do whatever the heck I want to do.'</p>
+<div style = "width:200px; height:200px;"> <br> <br> <br> <br>
+<img src = 'https://openclipart.org/download/216413/coniglio_rabbit_small.svg'>
+</div>
+
