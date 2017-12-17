@@ -1,0 +1,22 @@
+<img name = "globe-animated" align = "right" width ="15%" height = "15%" src = "http://bestanimations.com/Earth&Space/Earth/earthglobeanimation/globe-earth-animation-15.gif"/>
+<div align = "center">
+<h1>Sports Aggregated</h1> <span class="blinking-cursor">|</span>
+<br>
+<h2>(a realtime html + css editor)</h2><br>
+</div>
+<table align = "justify" style = "width:100%">
+  <tr align = "justify">
+    <th  style = "width: 33.33%">the 1st column</th>
+    <th style = "width: 33.33%">the 2nd column</th>
+    <th style = "width: 33.33%">the 3rd column</th>
+  </tr> 
+  <tr align = "justify">
+    <td> the 2nd row, 1st column. writing a bunch to see how the text wraps around the columns. hsldkjfa;lksjdfl;alskdjfklds;alksdjfl;sdf </td>
+    <td> the 2nd row, 2nd column </td>
+    <td> the 2nd row, 3rd column </td>
+  </tr>
+</table>
+<p align = "center"> Sports Aggregated </p>
+<div style = "width:20px; height:20px;">
+  
+</div>
