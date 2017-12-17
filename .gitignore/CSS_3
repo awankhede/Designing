@@ -1,0 +1,94 @@
+<style>
+body {
+  padding-top: 20px;
+  text-align: justify;
+  font-family: ARIAL, Verdana, helvetica, Baskerville;
+  background: #FFFFFF
+}
+h1, h2 {
+  font-weight: normal;
+  display: inline-block;
+  background: #fff;
+  font-size: 20px;
+}
+p{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align = "justify";
+  color: white;
+  background: red;
+  font-size: 50px;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-style: italic;
+}
+h3 {
+  font-size: 15px;
+}
+span {
+  background: #fd0;
+}
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 30px;
+  color: #ddd;
+  background: #fff;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: #fff;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+tr{
+  border: 1px solid black;
+}
+td{
+  padding: 15px 15px 15px 15px;
+}
+</style>
+
